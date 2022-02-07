@@ -4,9 +4,6 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-streamlit = ">=0.84.0"
-torch
-torchvision
 
 [dev-packages]
 
