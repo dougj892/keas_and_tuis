@@ -4,9 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-streamlit
-torch
-torchvision
+streamlit = "*"
+torch = "*"
+torchvision = "*"
 
 
 [dev-packages]
